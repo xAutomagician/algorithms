@@ -1,1 +1,1 @@
-# algorithms_and_data_structures
+Пытаемся в алгоритмы
