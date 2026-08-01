@@ -1,4 +1,4 @@
-![try hard](image.png)
+![dumb](thinking.png)
 
 ## Статусы
 
