@@ -1,8 +1,7 @@
 ## Статусы
 
 - ✅ — решил
-- 🟡 — решил не сразу / пришлось оптимизировать
-- ❌ — пока не решил
+- ❌ — не решил
 - ⏳ — не приступал
 
 ## Prefix Sum
@@ -10,9 +9,9 @@
 - ✅ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 - ✅ [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/)
 - ❌ [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/) — O(n²), Time Limit Exceeded, пока нет идей
-- 🟡 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) — O(n³) → O(n²) → OK
+- ✅ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) — O(n³) → O(n²) → OK
 - ✅ [Car Pooling](https://leetcode.com/problems/car-pooling/description/) — сопоставил с Corporate Flight Bookings
-- 🟡 [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) — сначала O(n²), затем решил
+- ✅ [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) — сначала O(n²), затем решил
 - ❌ [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/) — не понял задачу
 - ❌ [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) — Wrong Answer, не понял, как применить префиксные суммы
 - ✅ [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
