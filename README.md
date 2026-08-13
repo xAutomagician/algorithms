@@ -14,7 +14,7 @@
 - ✅ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - ✅ [Car Pooling](https://leetcode.com/problems/car-pooling/description/)
 - ✅ [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/)
-- ❌ [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/) — не понял задачу
+- ✅ [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/) — не понял задачу
 - ✅ [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/)
 - ✅ [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 - ✅ [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
