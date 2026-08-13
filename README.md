@@ -23,5 +23,5 @@
 ## Intervals
 
 - ✅ [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/description/)
-- ⏳ [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
+- ✅ [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)
 - ✅ [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
